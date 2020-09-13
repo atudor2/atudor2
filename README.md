@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm BI developer by day with a soft spot for ABAP & C# in my spare time
+
+
+
 <!--
 **atudor2/atudor2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
