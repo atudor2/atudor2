@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 I'm BI developer by day with a soft spot for ABAP & C# in my spare time
 
