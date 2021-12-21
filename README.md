@@ -1,4 +1,4 @@
-### Hi 👋
+![image](https://64.media.tumblr.com/9ebdbea254e236a441fbfe37a8298b59/tumblr_mmwhrfPTtZ1qeqr5fo1_250.gifv)
 
 I'm BI developer by day with a soft spot for ABAP & C# in my spare time
 
